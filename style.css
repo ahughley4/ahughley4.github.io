@@ -1,0 +1,56 @@
+body{
+    background-image: url("background12.jpg");
+    font-family: sans-serif;
+}
+#heading{
+    text-align: center;
+    font-family: sans-serif;
+}
+#picture{
+    height: 90px;
+}
+.quote{
+    font-size: 22px;
+}
+#bio-border{
+    border-style: solid;
+    border-color: whitesmoke;
+    font-size: 30px;
+   
+}
+.pic{
+    border: navy;
+}
+
+.bio-head{
+    margin-left: 24px;
+    font-size: 28px;
+    font-weight: bold;
+   
+}
+.points{
+    margin-right: 40px;
+    text-align: left;
+}
+.hover:hover{
+    color: red;
+}
+#projects-title{
+    text-align: center;
+    border-style: solid;
+    border-color:whitesmoke;
+    font-size: 30px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+  }
+
+tr:nth-child(even) {background-color: powderblue;}
+tr:nth-child(odd) {background-color: orange;}
